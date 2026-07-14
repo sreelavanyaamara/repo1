@@ -1,0 +1,35 @@
+# 📊 Sales Data Analysis using Python
+
+## 📖 Project Overview
+This project analyzes sales data using Python to identify sales trends, top-performing products, and business insights through data cleaning, exploratory data analysis (EDA), and visualization.
+
+## 🛠 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 🎯 Objectives
+- Clean the dataset
+- Analyze sales trends
+- Identify top-selling products
+- Create visualizations
+- Generate business insights
+
+## 📈 Key Features
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Sales Trend Analysis
+
+## 📂 Files
+- `sales-data-analysis-python.ipynb` – Jupyter Notebook
+- `README.md` – Project documentation
+
+## 👩‍💻 Author
+**Sree Lavanya Amara**
+
+Aspiring Data Analyst
+
+Python | SQL | Excel | Power BI
